@@ -6,5 +6,3 @@ def square_array(array)
   end
   square_array
 end
-
-square_array.collect
